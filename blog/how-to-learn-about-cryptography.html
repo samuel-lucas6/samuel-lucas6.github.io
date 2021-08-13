@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>How to Learn About Cryptography</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="A list of resources to help you learn about cryptography.">
+  <meta name="keywords" content="cryptography, learning cryptography, crypto, learning crypto, applied cryptography, theoretical cryptography, cryptographic algorithms, beginner, advanced, Real-World Cryptography, Serious Cryptography, Everyday Cryptography, Cryptography Engineering, Understanding Cryptography, Crypto 101, Crypto Dictionary, Monocypher, Cryptography I, Cryptography Stack Exchange, r/crypto, libsodium, Tink, Google Tink, Crytopals, HKDF, HMAC, encryption, decryption, security, cyber security, maths, math, infosec, information security, privacy, online privacy, digital privacy, computing, computers, computer science, coding, programming">
+  <meta name="author" content="Samuel Lucas">
+  <link rel="icon" type="image/x-icon" href="diamond.ico">
+  <link rel="stylesheet" type="text/css" media="all" href="/style.css">
+</head>
+
+<body>
+  <h1 style="text-align:center">How to Learn About Cryptography</h1>
+  <p style="text-align:center">30th of March 2021</p>
+  <p>I was recently asked via email about some good sources for learning about cryptography and thought I should share a padded-out version of my reply here. I hope this is useful.</p>
+  <p>Firstly, you don't need a computer science or maths degree to learn about cryptography. Those types of qualifications will significantly speed up the learning process when it comes to more advanced topics and are required for very advanced topics, but in many cases, the maths behind cryptography is not necessarily important to learn. If you are a developer, then you should not be focused on the maths. You do not need to learn about mathematical proofs or theoretical cryptography. Ignore people telling you otherwise because they are speaking rubbish.<p>
+  <h3>Books</h3>
+  <p>I recommend <a href="https://www.manning.com/books/real-world-cryptography">Real-World Cryptography</a> as a first read because it's beginner friendly and doesn't require a mathematical background. It explains a lot of the core concepts and discusses modern algorithms like ChaCha20-Poly1350 and AES-GCM in enough detail. It certainly doesn't cover everything, but that's good because you shouldn't jump straight into the deep end anyway. However, it contains a lot of spelling and grammar mistakes currently since it's still being edited at the time of writing this.</p>
+  <p>Another less mathematical book is <a href="https://www.amazon.co.uk/Everyday-Cryptography-Fundamental-Principles-Applications/dp/0199695598">Everyday Cryptography</a>. This is a much larger book covering more topics that has very positive reviews. It's meant to offer a solid introduction to cryptography without a bunch of maths.</p>
+  <p>Some other highly regarded books include <a href="https://www.amazon.co.uk/Cryptography-Engineering-Principles-Practical-Applications/dp/0470474246/ref=pd_sbs_2?pd_rd_w=SslH5&pf_rd_p=fbd048ad-ab90-4647-94dd-974b91bedef1&pf_rd_r=D63A5WP02668Y8Q48ZN8&pd_rd_r=8dda3881-91aa-43b6-822b-dca25a5be937&pd_rd_wg=FTZGG&pd_rd_i=0470474246&psc=1">Cryptography Engineering</a>, <a href="https://nostarch.com/seriouscrypto">Serious Cryptography</a>, and <a href="https://www.crypto-textbook.com/">Understanding Cryptography</a>. I believe these contain noticeably more mathematical notation than the first two books I've mentioned, so they're probably best for more advanced readers.</p>
+  <p>There's also a free eBook called <a href="https://www.crypto101.io/">Crypto 101</a>, which is recommended by the <a href="https://monocypher.org/">Monocypher</a> <a href="https://loup-vaillant.fr/">maintainer</a>. This is meant to be an introductory course for programmers of all ages and skill levels, but it looks like familiarity with cryptographic notation is required. It's also still being written and contains some missing sections. Therefore, I don't recommend it over the books I've listed above.</p>
+  <p>Finally, <a href="https://nostarch.com/crypto-dictionary">Crypto Dictionary</a> offers a light read and will help you learn some fun facts. However, some of the definitions aren't really definitions, some terms/algorithms have been skipped over, and it intentionally doesn't contain much detail. This should not be your first read.</p>
+  <h3>Courses</h3>
+  <p>The course I've seen recommended everywhere is <a href="https://www.coursera.org/learn/crypto">Cryptography I</a> by Dan Boneh from Stanford University, but I would strongly advise against taking this course if you're a beginner or someone who doesn't have a maths background. It's also very theoretical rather than applied, which is a shame because applied cryptography is far more important for most people.</p>
+  <p>If you're a beginner, there's a short <a href="https://www.futurelearn.com/courses/cryptography-and-digital-certificates-et">Cryptography and Digital Certificates</a> course from Coventry University on <a href="https://www.futurelearn.com/">FutureLearn</a> that might be a good place to get started. Then there's another <a href="https://www.coursera.org">Coursera</a> course that sounds less mathematical called <a href="https://www.coursera.org/specializations/introduction-applied-cryptography">Introduction to Applied Cryptography</a> from the University of Colorado.</p>
+  <p>There are also plenty of other courses on <a href="https://www.coursera.org/">Coursera</a> and <a href="https://www.futurelearn.com/">FutureLearn</a> related to computer science and information security. For example, Google has an <a href="https://www.coursera.org/learn/it-security?">IT Security</a> course that has lots of positive feedback. If you're unsure where to start, a bunch of recommended courses can be found on the <a href="https://github.com/ForrestKnight/open-source-cs">Open Source Computer Science Degree</a> list.</p>
+  <h3>Blogs/Websites</h3>
+  <ul>
+    <li><a href="https://en.wikipedia.org/wiki/Category:Cryptography">Wikipedia</a> contains lots of useful information.</li>
+    <li>The <a href="https://doc.libsodium.org/">libsodium documentation</a> provides a summary of information on implementing cryptographic algorithms properly.</li>
+    <li><a href="https://neilmadden.blog/">Neil Madden</a>, the Security Director at ForgeRock and author of <a href="https://www.manning.com/books/api-security-in-action">API Security in Action</a>.</li>
+    <li><a href="https://blog.cryptographyengineering.com/">A Few Thoughts on Cryptographic Engineering</a> by Matthew Green, a cryptographer and professor at Johns Hopkins University.</li>
+    <li><a href="https://cryptologie.net/">Cryptologie</a> by David Wong, the author of <a href="https://www.manning.com/books/real-world-cryptography">Real-World Cryptography</a>.</li>
+    <li><a href="https://emilymstark.com/blog.html">Emily M. Stark</a>, a Software Engineer working on the Google Chrome browser.</li>
+    <li><a href="https://www.imperialviolet.org/">ImperialViolet</a> by Adam Langley, a Principal Security Engineer at Google responsible for the fix for <a href="https://en.wikipedia.org/wiki/Heartbleed">Heartbleed</a>.</li>
+    <li><a href="https://soatok.blog/b/">Dhole Moments</a> by Soatok, a freelancer.</li>
+    <li><a href="https://buttondown.email/cryptography-dispatches/archive">Cryptography Dispatches</a> by Filippo Valsorda, the Go security lead.</li>
+  </ul>
+  <h3>Forums</h3>
+  <p>You can ask questions related to cryptography on <a href="https://crypto.stackexchange.com/">Cryptography Stack Exchange</a> and <a href="https://www.reddit.com/r/crypto/">r/crypto</a>. However, I would use these as a last resort because some responses are guaranteed to be outright wrong and many answers on Cryptography Stack Exchange are mathematical in nature rather than summarised in layman's terms. Books are a much safer bet when it comes to locating reliable information.</p>
+  <h3>Programming</h3>
+  <p>In terms of cryptographic libraries, stick to <a href="https://doc.libsodium.org/">libsodium</a>, <a href="https://monocypher.org/">Monocypher</a>, or <a href="https://github.com/google/tink">Tink</a> and read the relevant documentation before coding anything. Even if your programming language already has a great library like <a href="https://github.com/golang/crypto">Go</a> does, the three libraries I just mentioned are likely easier and safer to use.</p>
+  <p>In terms of practice, <a href="https://cryptopals.com/">Crytopals</a> is a good way to work through some increasingly difficult cryptography challenges in a programming language of your choice. However, I'd also recommend just trying to program your own private file encryption program or demos of how to do password hashing, key exchange, etc using one of the cryptographic libraries I discussed above.</p>
+  <p>You can then review your code to ensure that you haven't made any common implementation mistakes like reusing nonces, using an insecure source of randomness, not comparing authentication tags in constant time, etc. Learning by doing works well, and if there's anything you're unsure of, then you should search it up and ask someone else as a last resort.</p>
+  <p>Finally, once you become more knowledgeable, you could try writing some <strong>existing</strong> algorithms (<strong>not creating your own - don't do this because even the most fully qualified cryptographers design insecure algorithms</strong>). <a href="https://tools.ietf.org/html/rfc5869">HKDF</a> and <a href="https://tools.ietf.org/html/rfc2104">HMAC</a> are a good place to start.</p>
+  <p>However, this sort of thing is very easy to cock up, and you should <strong>not</strong> implement anything complicated (e.g. <a href="https://loup-vaillant.fr/articles/implementing-elligator">Elligator</a>) until you are very experienced in the subject. If you do this, then you should <strong>always</strong> review your code multiple times against the specification and test your code against the provided test vectors at the end of the specification. <strong>Never assume your code is secure</strong>.</p>
+  <p>Good luck.</p>
+</body>
+</html>
