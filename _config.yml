@@ -28,12 +28,13 @@ plugins:
   - jekyll-feed
   - jekyll-remote-theme
 
+header_pages:
+  - projects.md
+  - keys.md
+  - contact.md
+
 minima:
   skin: dark
-  header_pages:
-    - projects.md
-    - keys.md
-    - contact.md
 
 kramdown:
   math_engine: mathjax
