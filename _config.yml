@@ -20,6 +20,11 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://samuellucas.com" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: samuel-lucas6
 
+header_pages:
+  - projects.md
+  - keys.md
+  - contact.md
+
 # Build settings
 markdown: kramdown
 theme: minima
