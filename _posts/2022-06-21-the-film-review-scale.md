@@ -10,19 +10,19 @@ It would seem many people cannot rate and review shows/films properly. Evidence 
 
 If we look at Game of Thrones, 40% of IMDb reviews for episode 3 of season 8 were 10/10. 40%! Are you having a laugh? The Long Night must be near perfect.
 
-[![https://www.imdb.com/title/tt6027912/](https://samuellucas.com/images/the-film-review-scale/GoTS08E03.png)](https://www.imdb.com/title/tt6027912/)
+[![https://www.imdb.com/title/tt6027912/](https://samuellucas.com/images/2022-06-21-the-film-review-scale/GoTS08E03.png)](https://www.imdb.com/title/tt6027912/)
 
 Moving on to episode 6, the finale, 13.1% gave it 10/10, 29% in total gave it 6+/10, and 45.8% gave it 1/10. The ratings flipped, but about a quarter of people still considered it above average.
 
-[![https://www.imdb.com/title/tt6027920/](https://samuellucas.com/images/the-film-review-scale/GoTS08E06.png)](https://www.imdb.com/title/tt6027920/)
+[![https://www.imdb.com/title/tt6027920/](https://samuellucas.com/images/2022-06-21-the-film-review-scale/GoTS08E06.png)](https://www.imdb.com/title/tt6027920/)
 
 As another example, 15.8% of reviews were 10/10 for the entirety of The Book of Boba Fett, with 12.6% being 9/10 and 25.7% being 8/10. ~55% of ratings are 8+ on IMDb.
 
-[![https://www.imdb.com/title/tt13668894/](https://samuellucas.com/images/the-film-review-scale/TBoBF.png)](https://www.imdb.com/title/tt13668894/)
+[![https://www.imdb.com/title/tt13668894/](https://samuellucas.com/images/2022-06-21-the-film-review-scale/TBoBF.png)](https://www.imdb.com/title/tt13668894/)
 
 Finally, 28.2% of Obi-Wan Kenobi reviews were 10/10, with 14.2% giving it a 9 and 16.5% giving it an 8. Nearly 60% of ratings are 8+.
 
-[![https://www.imdb.com/title/tt8466564/](https://samuellucas.com/images/the-film-review-scale/OWK.png)](https://www.imdb.com/title/tt8466564/)
+[![https://www.imdb.com/title/tt8466564/](https://samuellucas.com/images/2022-06-21-the-film-review-scale/OWK.png)](https://www.imdb.com/title/tt8466564/)
 
 **Newsflash:** season 8 of Game of Thrones was an objective writing catastrophe, and these recent Star Wars shows are not good, let alone excellent.
 
