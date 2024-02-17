@@ -8,6 +8,8 @@ permalink: /projects/
 
 [Geralt](https://www.geralt.xyz/): A modern cryptographic library for .NET based on libsodium and inspired by Monocypher.
 
+[Cahir](https://github.com/samuel-lucas6/Cahir): A deterministic password manager.
+
 [Milva](https://github.com/samuel-lucas6/Milva): A simple, cross-platform command line tool for hashing files and text.
 
 [Vanity](https://github.com/samuel-lucas6/Vanity): A simple WireGuard vanity public key generator.
