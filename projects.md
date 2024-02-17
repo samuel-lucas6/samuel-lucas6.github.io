@@ -16,6 +16,8 @@ permalink: /projects/
 
 [The AEGIS Family of Authenticated Encryption Algorithms](https://datatracker.ietf.org/doc/html/draft-irtf-cfrg-aegis-aead): The AEGIS-128L, AEGIS-256, AEGIS-128X, and AEGIS-256X Internet-Draft.
 
+[Balloon Hashing](https://github.com/samuel-lucas6/draft-lucas-balloon-hashing): An Internet-Draft for the Balloon password hashing function.
+
 [Encrypt-then-MAC for Committing AEAD (cAEAD)](https://github.com/samuel-lucas6/draft-lucas-generalised-committing-aead): An Internet-Draft and committing ChaCha20-BLAKE2b AEAD implementation.
 
 [Cryptography Guidelines](https://github.com/samuel-lucas6/Cryptography-Guidelines): Guidance on implementing cryptography as a developer.
