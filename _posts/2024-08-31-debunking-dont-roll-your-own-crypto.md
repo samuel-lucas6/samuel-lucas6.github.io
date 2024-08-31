@@ -87,4 +87,4 @@ Therefore, my super catchy catchphrase proposal is '*only roll your own crypto i
 - Double and triple check.
 - Seek peer review.
 
-Nobody is perfect; don't pretend cryptographers are. We all make mistakes and can't know everything. If you follow these rules, you have just as much right to be *rolling your own crypto* as a cryptographer because they're doing the same thing just with a head start and the advantage of easier collaboration.
+Nobody is perfect; don't pretend cryptographers are. We all make mistakes and can't know everything. If you follow these rules, you have just as much right to be *rolling your own crypto* as a cryptographer because they're doing the same thing, just with a head start and the advantage of easier collaboration.
