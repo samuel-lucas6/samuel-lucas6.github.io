@@ -23,6 +23,7 @@ github_username: samuel-lucas6
 # Build settings
 markdown: kramdown
 remote_theme: jekyll/minima
+permalink: pretty
 plugins:
   - jekyll-seo-tag
   - jekyll-feed
