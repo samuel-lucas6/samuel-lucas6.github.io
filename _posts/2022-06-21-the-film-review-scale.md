@@ -10,19 +10,27 @@ It would seem many people cannot rate and review shows/films properly. Evidence 
 
 If we look at Game of Thrones, 40% of IMDb reviews for episode 3 of season 8 were 10/10. 40%! Are you having a laugh? The Long Night must be near perfect.
 
-[![https://www.imdb.com/title/tt6027912/](https://samuellucas.com/images/2022-06-21-the-film-review-scale/GoTS08E03.png)](https://www.imdb.com/title/tt6027912/)
+<p align="center">
+  <img src="/images/2022-06-21-the-film-review-scale/GoTS08E03.png" alt="https://www.imdb.com/title/tt6027912/"/>
+</p>
 
 Moving on to episode 6, the finale, 13.1% gave it 10/10, 29% in total gave it 6+/10, and 45.8% gave it 1/10. The ratings flipped, but about a quarter of people still considered it above average.
 
-[![https://www.imdb.com/title/tt6027920/](https://samuellucas.com/images/2022-06-21-the-film-review-scale/GoTS08E06.png)](https://www.imdb.com/title/tt6027920/)
+<p align="center">
+  <img src="/images/2022-06-21-the-film-review-scale/GoTS08E06.png" alt="https://www.imdb.com/title/tt6027920/"/>
+</p>
 
 As another example, 15.8% of reviews were 10/10 for the entirety of The Book of Boba Fett, with 12.6% being 9/10 and 25.7% being 8/10. ~55% of ratings are 8+ on IMDb.
 
-[![https://www.imdb.com/title/tt13668894/](https://samuellucas.com/images/2022-06-21-the-film-review-scale/TBoBF.png)](https://www.imdb.com/title/tt13668894/)
+<p align="center">
+  <img src="/images/2022-06-21-the-film-review-scale/TBoBF.png" alt="https://www.imdb.com/title/tt13668894/"/>
+</p>
 
 Finally, 28.2% of Obi-Wan Kenobi reviews were 10/10, with 14.2% giving it a 9 and 16.5% giving it an 8. Nearly 60% of ratings are 8+.
 
-[![https://www.imdb.com/title/tt8466564/](https://samuellucas.com/images/2022-06-21-the-film-review-scale/OWK.png)](https://www.imdb.com/title/tt8466564/)
+<p align="center">
+  <img src="/images/2022-06-21-the-film-review-scale/OWK.png" alt="https://www.imdb.com/title/tt8466564/"/>
+</p>
 
 **Newsflash:** season 8 of Game of Thrones was an objective writing catastrophe, and these recent Star Wars shows are not good, let alone excellent.
 
@@ -30,10 +38,10 @@ Reviewing a show/movie is more than about enjoyment or feeling. Yes, they’re e
 
 Alongside this overreliance on enjoyment, I think these inaccurate reviews stem from four other main factors:
 
--   Bias
--   An inability to notice what’s going on
--   An inability to think critically and objectively
--   The 1-10 rating scale being tricky to grasp
+- Bias
+- An inability to notice what’s going on
+- An inability to think critically and objectively
+- The 1-10 rating scale being tricky to grasp
 
 Bias is never going away, some people won’t care enough about what they’re watching, and idiocy is here to stay too, especially whilst social media is so popular. However, perhaps something can be done about this 1-10 scale, and maybe that will help with the other factors to some extent. That’s where my Film Review Scale comes in.
 
