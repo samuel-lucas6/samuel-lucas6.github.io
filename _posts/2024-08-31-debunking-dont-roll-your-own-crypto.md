@@ -6,7 +6,9 @@ date: 2024-08-31
 
 '*Don't roll your own crypto*' is one of the most popular phrases in cryptography. Unfortunately, people use it without considering whether it really applies in that context, and in this blog post, I'm going to explain why it doesn't apply a lot of the time and when it definitely does apply.
 
-![One does not simply roll their own crypto](/images/2024-08-31-debunking-dont-roll-your-own-crypto/one-does-not-simply-roll-their-own-crypto.jpg)
+<p align="center">
+  <img src="/images/2024-08-31-debunking-dont-roll-your-own-crypto/one-does-not-simply-roll-their-own-crypto.jpg" alt="One does not simply roll their own crypto"/>
+</p>
 
 ## Implementing existing algorithms using existing APIs
 This is *rolling your own crypto* in the sense that you're implementing a cryptographic algorithm rather than calling a cryptographic library that exposes that algorithm. For example, implementing [HMAC](https://www.rfc-editor.org/rfc/rfc2104) using an [incremental SHA-256 API](https://doc.libsodium.org/advanced/sha-2_hash_function#sha-256).
