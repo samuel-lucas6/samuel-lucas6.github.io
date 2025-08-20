@@ -22,7 +22,7 @@ github_username: samuel-lucas6
 
 # Build settings
 markdown: kramdown
-remote_theme: "jekyll/minima@c6e74bb"
+remote_theme: "jekyll/minima@1e8a445"
 plugins:
   - jekyll-seo-tag
   - jekyll-feed
