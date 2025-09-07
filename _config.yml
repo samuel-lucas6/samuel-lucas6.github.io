@@ -35,8 +35,6 @@ header_pages:
 
 minima:
   skin: dark
-  social_links:
-    - { platform: github,  user_url: "https://github.com/samuel-lucas6" }
 
 kramdown:
   math_engine: mathjax
