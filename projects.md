@@ -20,9 +20,9 @@ Click [here](https://github.com/samuel-lucas6?tab=repositories) for the full l
 
 ### Algorithms
 
-[ChaCha20-Poly1305-SIV (CCP-SIV)](https://c2sp.org/chacha20-poly1305-siv): A misuse-resistant, key-committing AEAD scheme built from ChaCha20 and Poly1305 that can be implemented using existing cryptographic library APIs.
+[RFC 10032 - The AEGIS Authenticated Encryption Algorithms](https://datatracker.ietf.org/doc/rfc10032/): The specification for the AEGIS-128L, AEGIS-256, AEGIS-128X, and AEGIS-256X AES-based AEADs, stream ciphers, and MACs.
 
-[The AEGIS Family of Authenticated Encryption Algorithms](https://datatracker.ietf.org/doc/html/draft-irtf-cfrg-aegis-aead): The AEGIS-128L, AEGIS-256, AEGIS-128X, and AEGIS-256X Internet-Draft.
+[C2SP - ChaCha20-Poly1305-SIV (CCP-SIV)](https://c2sp.org/chacha20-poly1305-siv): A misuse-resistant, key-committing AEAD scheme built from ChaCha20 and Poly1305 that can be implemented using existing cryptographic library APIs.
 
 [Balloon Key Derivation Function (BKDF)](https://github.com/samuel-lucas6/draft-lucas-bkdf): An unpublished Internet-Draft for BKDF, a memory-hard password hashing and password-based key derivation function derived from Balloon.
 
